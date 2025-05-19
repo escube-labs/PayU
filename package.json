@@ -1,0 +1,25 @@
+{
+  "name": "payu",
+  "version": "1.0.0",
+  "description": "App for making hasslefree tenant and landlord connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/escube-labs/PayU.git"
+  },
+  "keywords": [
+    "payment",
+    "PAYU",
+    "payU",
+    "PayU"
+  ],
+  "author": "Sandeep Sahoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/escube-labs/PayU/issues"
+  },
+  "homepage": "https://github.com/escube-labs/PayU#readme"
+}
